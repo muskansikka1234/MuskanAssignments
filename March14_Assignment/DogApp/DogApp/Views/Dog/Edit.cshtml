@@ -1,0 +1,51 @@
+﻿@model DogApp.Models.Dog
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<form asp-action="Edit" enctype="multipart/form-data">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="ID" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.ImagePath))
+    {
+        <div class="form-group">
+            <label>Current Image</label><br />
+            <img id="imagePreview" src="@Model.ImagePath" width="120" height="120" />
+        </div>
+    }
+    else
+    {
+        <img id="imagePreview" width="120" height="120" />
+    }
+
+    <div class="form-group">
+        <label>Upload New Image</label>
+        <input type="file" name="imagefile" id="imageInput" class="form-control" accept="image/*" />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+
+</form>
+
+</div>
