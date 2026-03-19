@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|c:\\users\\hp\\source\\repos\\layoutandsectionexample\\layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D185DC-BC5C-506F-CD58-56B03E28A65E}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml*",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml*",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:25:39.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml*",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:26:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:05.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeptController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:12:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:07:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:26.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:09:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:03:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:03:39.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
