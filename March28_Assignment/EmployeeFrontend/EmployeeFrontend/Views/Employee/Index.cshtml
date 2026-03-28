@@ -1,0 +1,26 @@
+﻿@model List<EmployeeFrontend.Models.Employee>
+
+<h2>Employees</h2>
+
+<a href="/Employee/Create">Add New</a>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Salary</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Name</td>
+            <td>@emp.Department</td>
+            <td>@emp.Salary</td>
+            <td>
+                <a href="/Employee/Delete/@emp.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
