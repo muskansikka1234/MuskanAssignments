@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\AzureBlob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\blob\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\blob\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\blob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\blob\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\blob\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\blob\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\container\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\container\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\views\\container\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\models\\containermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\models\\containermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\services\\containerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\services\\icontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\services\\icontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|c:\\users\\hp\\source\\repos\\azureblob\\azureblob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB98AEF-441B-4F7B-B2D0-AC3C8A459AA9}|AzureBlob\\AzureBlob.csproj|solutionrelative:azureblob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Addfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Addfile.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Blob\\Addfile.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Addfile.cshtml*",
+              "RelativeToolTip": "AzureBlob\\Views\\Blob\\Addfile.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:51:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Manage.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Blob\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Manage.cshtml*",
+              "RelativeToolTip": "AzureBlob\\Views\\Blob\\Manage.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:51:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Index1.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Blob\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Index1.cshtml",
+              "RelativeToolTip": "AzureBlob\\Views\\Blob\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:50:39.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Blob\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Blob\\Index.cshtml",
+              "RelativeToolTip": "AzureBlob\\Views\\Blob\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:50:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Controllers\\BlobController.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Controllers\\BlobController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Controllers\\BlobController.cs*",
+              "RelativeToolTip": "AzureBlob\\Controllers\\BlobController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:49:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\BlobService.cs*",
+              "RelativeToolTip": "AzureBlob\\Services\\BlobService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:46:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Program.cs*",
+              "RelativeToolTip": "AzureBlob\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:35:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\IBlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Services\\IBlobService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\IBlobService.cs*",
+              "RelativeToolTip": "AzureBlob\\Services\\IBlobService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:46:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlobModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Models\\BlobModel.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Models\\BlobModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Models\\BlobModel.cs*",
+              "RelativeToolTip": "AzureBlob\\Models\\BlobModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:45:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Container\\Index1.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Container\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Container\\Index1.cshtml*",
+              "RelativeToolTip": "AzureBlob\\Views\\Container\\Index1.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:45:20.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Container\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureBlob\\Views\\Container\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Views\\Container\\Index.cshtml*",
+              "RelativeToolTip": "AzureBlob\\Views\\Container\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:44:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Controllers\\ContainerController.cs*",
+              "RelativeToolTip": "AzureBlob\\Controllers\\ContainerController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:43:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContainerModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Models\\ContainerModel.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Models\\ContainerModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Models\\ContainerModel.cs*",
+              "RelativeToolTip": "AzureBlob\\Models\\ContainerModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:42:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\ContainerService.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Services\\ContainerService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\ContainerService.cs*",
+              "RelativeToolTip": "AzureBlob\\Services\\ContainerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:37:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IContainerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\IContainerService.cs",
+              "RelativeDocumentMoniker": "AzureBlob\\Services\\IContainerService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\Services\\IContainerService.cs*",
+              "RelativeToolTip": "AzureBlob\\Services\\IContainerService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:37:13.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBlob\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AzureBlob\\AzureBlob\\appsettings.json*",
+              "RelativeToolTip": "AzureBlob\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T09:35:02.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
