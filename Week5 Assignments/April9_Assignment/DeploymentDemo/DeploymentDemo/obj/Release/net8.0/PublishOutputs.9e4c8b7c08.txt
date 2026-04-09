@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.exe
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.dll
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.deps.json
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.runtimeconfig.json
+C:\Users\HP\source\repos\DeploymentDemo\DeploymentDemo\obj\Release\net8.0\PubTmp\Out\DeploymentDemo.pdb
