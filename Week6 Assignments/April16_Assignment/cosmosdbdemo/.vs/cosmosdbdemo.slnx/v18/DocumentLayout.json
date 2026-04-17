@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|c:\\users\\hp\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE84EE-2166-CB40-F245-FD3E94710558}|cosmosdbdemo\\cosmosdbdemo.csproj|solutionrelative:cosmosdbdemo\\data\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:30:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Itemmodel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Models\\Itemmodel.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Models\\Itemmodel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Models\\Itemmodel.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Models\\Itemmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:13:55.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:24:32.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:27:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:58.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:28:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Program.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Program.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:20:45.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\appsettings.json",
+              "RelativeToolTip": "cosmosdbdemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T06:06:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "cosmosdbdemo\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T06:29:32.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\cosmosdbdemo\\cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "RelativeToolTip": "cosmosdbdemo\\Data\\CosmosDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:15:51.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
