@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|c:\\users\\hp\\source\\repos\\studentinquiryapi\\studentinquiryapi\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71E9F42-971F-9B32-B7FA-3933F874EBD6}|StudentInquiryAPI\\StudentInquiryAPI.csproj|solutionrelative:studentinquiryapi\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Program.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:40:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:13:09.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:26:59.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:14:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enquiry.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Enquiry.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\Enquiry.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Enquiry.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\Enquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:13:31.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Course.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:12:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admission.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Admission.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\Admission.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\Admission.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\Admission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:13:54.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\appsettings.json",
+              "RelativeToolTip": "StudentInquiryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T04:57:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentInquiryAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\StudentInquiryAPI\\StudentInquiryAPI\\Models\\User.cs",
+              "RelativeToolTip": "StudentInquiryAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:12:05.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
