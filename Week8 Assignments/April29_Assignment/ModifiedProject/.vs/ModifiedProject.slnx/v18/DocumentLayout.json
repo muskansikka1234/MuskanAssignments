@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\dto\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\services\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\services\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\migrations\\20260427092416_tables added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\migrations\\20260427092416_tables added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|c:\\users\\hp\\source\\repos\\modifiedproject\\modifiedproject\\modifiedproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA4A1518-3C83-A174-2C9D-A3352FC19830}|ModifiedProject\\ModifiedProject.csproj|solutionrelative:modifiedproject\\modifiedproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:21:23.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Program.cs",
+              "RelativeToolTip": "ModifiedProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:20:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:12:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ModifiedProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\appsettings.json",
+              "RelativeToolTip": "ModifiedProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T09:18:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeBasicDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeBasicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:20:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\DTO\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\DTO\\EmployeeDto.cs",
+              "RelativeToolTip": "ModifiedProject\\DTO\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:11:32.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "ModifiedProject\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:19:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Models\\Employee.cs",
+              "RelativeToolTip": "ModifiedProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:10:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ModifiedProject\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:16:25.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Services\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Services\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Services\\IEmployee.cs",
+              "RelativeToolTip": "ModifiedProject\\Services\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:15:38.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260427092416_tables added.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092416_tables added.cs",
+              "RelativeDocumentMoniker": "ModifiedProject\\Migrations\\20260427092416_tables added.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\Migrations\\20260427092416_tables added.cs",
+              "RelativeToolTip": "ModifiedProject\\Migrations\\20260427092416_tables added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:24:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModifiedProject.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\ModifiedProject.csproj",
+              "RelativeDocumentMoniker": "ModifiedProject\\ModifiedProject.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ModifiedProject\\ModifiedProject\\ModifiedProject.csproj",
+              "RelativeToolTip": "ModifiedProject\\ModifiedProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T09:09:04.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
